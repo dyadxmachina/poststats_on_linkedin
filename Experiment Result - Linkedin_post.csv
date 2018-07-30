@@ -1,0 +1,16 @@
+Date,CR (0) or HW (1),Time,Topic,Order (L first or T first),LinkedIn Direct ,Tumblr -> Buffer -> Linkedin,Tags on L,Views from L,Views from T,Check Time,Possible Reasons
+7/26/2018,1,12:08 PM,lunch reading ,L ,1,1,1,77,25,,The picture quality on LinkedIn is significantly higher than the picture rendered from Tumblr
+7/26/2018,1,18:40PM,productivity,T,1,1,1,156,29,,
+7/26/2018,0,18:35PM,productivity,T,1,0,1,102,-,,
+7/27/2018,0,7:20 AM,block 1,L ,1,1,1,62,22,12:21 PM,
+7/27/2018,1,7:23 AM,block 1,L ,1,1,1,72,18,12;21 PM,
+7/27/2018,0,5:10 PM,productivity,L ,1,0,1,107,-,7:17 AM,
+7/27/2018,1,5:12 PM,productivity,L ,1,0,1,93,-,7:18 AM,
+7/27/2018,0,5:15 AM,breakfast,T,1,1,1,107,50,,
+7/27/2018,1,7:30 AM,block 1,L,1,1,1,114,60,,
+7/27/2018,1,5:05 AM,morning read ,L,1,1,1,197,56,14:06 PM,
+7/28/2018,0,6:23 AM,morning read,L,1,0,1,125,17,14:13 PM,
+7/28/2018,1,6:25 AM,morning read ,L,1,1,1,223,50,14:06 PM,
+7/28/2018,0,9:25 AM,walk 1,T,1,1,1,99,33,,
+7/28/2018,0,3:25 PM,walk 2,T,1,1,1,54,16,,
+7/28/2018,,,,,,,,,,,
